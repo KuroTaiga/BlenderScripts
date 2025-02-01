@@ -1,0 +1,1230 @@
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Front Rack Squat.blend
+Info: Total files 38 | Changed 6 | Failed 0
+Info: Saved "Front Rack Squat.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Front Rack Squat.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Neutral Overhead Press.blend
+Info: Total files 31 | Changed 1 | Failed 0
+Info: Saved "Neutral Overhead Press.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Neutral Overhead Press.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Kettlebell Decline Skull Crusher .blend
+Error: File written by newer Blender binary (300.43), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Info: Total files 29 | Changed 1 | Failed 0
+Info: Saved "Kettlebell Decline Skull Crusher .blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Kettlebell Decline Skull Crusher .blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Cable Cross Pushdown.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Info: Total files 67 | Changed 1 | Failed 0
+Info: Saved "Cable Cross Pushdown.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Cable Cross Pushdown.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Bulgarian Split Squat.blend
+Info: Total files 40 | Changed 6 | Failed 0
+Info: Saved "Bulgarian Split Squat.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Bulgarian Split Squat.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Cable Wrist Curl.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Info: Total files 2 | Changed 1 | Failed 0
+Info: Saved "Cable Wrist Curl.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Cable Wrist Curl.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Dumbell Goblet Squat.blend
+Info: Total files 40 | Changed 6 | Failed 0
+Info: Saved "Dumbell Goblet Squat.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Dumbell Goblet Squat.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Barbell Lateral Lunge.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Info: Total files 34 | Changed 1 | Failed 0
+Info: Saved "Barbell Lateral Lunge.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Barbell Lateral Lunge.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Dumbbell Reverse Lunge.blend
+Info: Total files 31 | Changed 13 | Failed 0
+Info: Saved "Dumbbell Reverse Lunge.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Dumbbell Reverse Lunge.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Goblet Pulse Squat.blend
+Info: Total files 58 | Changed 11 | Failed 0
+Info: Saved "Goblet Pulse Squat.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Goblet Pulse Squat.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Single Arm Chest Press.blend
+Info: Total files 33 | Changed 1 | Failed 0
+Info: Saved "Single Arm Chest Press.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Single Arm Chest Press.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Barbell Toes Up Calf Raise.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Info: Total files 45 | Changed 6 | Failed 0
+Info: Saved "Barbell Toes Up Calf Raise.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Barbell Toes Up Calf Raise.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Chest Stretch -1.blend
+Error: Unable to pack file, source path '/home/s/Documents/Talisman Skulls_1/Textures/TS_Tongue.png' not found
+Info: Packed 1 file(s)
+Info: Total files 30 | Changed 2 | Failed 0
+Info: Saved "Chest Stretch -1.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Error: Unable to pack file, source path '/home/s/Documents/Talisman Skulls_1/Textures/TS_Tongue.png' not found
+Info: Packed 1 file(s)
+Info: Saved "Chest Stretch -1.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Diamond Push Ups.blend
+Error: File written by newer Blender binary (300.43), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Info: Total files 35 | Changed 1 | Failed 0
+Info: Saved "Diamond Push Ups.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Diamond Push Ups.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Dumbbell incline hammer curl.blend
+Info: Total files 31 | Changed 13 | Failed 0
+Info: Saved "Dumbbell incline hammer curl.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Dumbbell incline hammer curl.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Kettlebell Glute Bridge.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Info: Total files 28 | Changed 1 | Failed 0
+Info: Saved "Kettlebell Glute Bridge.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Kettlebell Glute Bridge.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Ball Hamstring Curl.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Info: Total files 13 | Changed 1 | Failed 0
+Info: Saved "Ball Hamstring Curl.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Ball Hamstring Curl.blend"
+
+Blender quit
+WARN (bke.customdata): ./source/blender/blenkernel/intern/customdata.c:4491 CustomData_verify_versions: .blend file read: removing a data layer that should not have been written
+WARN (bke.customdata): ./source/blender/blenkernel/intern/customdata.c:4491 CustomData_verify_versions: .blend file read: removing a data layer that should not have been written
+WARN (bke.customdata): ./source/blender/blenkernel/intern/customdata.c:4491 CustomData_verify_versions: .blend file read: removing a data layer that should not have been written
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Seating Overhead Tricep Extension.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Info: Total files 22 | Changed 1 | Failed 0
+Info: Saved "Seating Overhead Tricep Extension.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Seating Overhead Tricep Extension.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Forward Lunge.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Info: Total files 38 | Changed 6 | Failed 0
+Info: Saved "Forward Lunge.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Forward Lunge.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Cable Rear Delt Fly.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Info: Total files 69 | Changed 1 | Failed 0
+Info: Saved "Cable Rear Delt Fly.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Cable Rear Delt Fly.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Single Army Chest Press.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Info: Total files 48 | Changed 1 | Failed 0
+Info: Saved "Single Army Chest Press.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Single Army Chest Press.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Barbell Curtsy Lunge.blend
+Info: Total files 45 | Changed 6 | Failed 0
+Info: Saved "Barbell Curtsy Lunge.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Barbell Curtsy Lunge.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Dumbbell Wrist Extension.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Error: Unable to pack file, source path '/home/s/Documents/Talisman Skulls_1/Textures/TS_Tongue.png' not found
+Info: Packed 1 file(s)
+Info: Total files 33 | Changed 3 | Failed 0
+Info: Saved "Dumbbell Wrist Extension.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Error: Unable to pack file, source path '/home/s/Documents/Talisman Skulls_1/Textures/TS_Tongue.png' not found
+Info: Packed 1 file(s)
+Info: Saved "Dumbbell Wrist Extension.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Band Skullcrusher.blend
+Error: File written by newer Blender binary (300.43), expect loss of data!
+Error: Unable to pack file, source path '/home/bizon/dong/3D Models/s/Documents/Talisman Skulls_1/Textures/TS_Tongue.png' not found
+Info: Packed 1 file(s)
+Info: Total files 30 | Changed 1 | Failed 0
+Info: Saved "Band Skullcrusher.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Error: Unable to pack file, source path '/home/bizon/dong/3D Models/s/Documents/Talisman Skulls_1/Textures/TS_Tongue.png' not found
+Info: Packed 1 file(s)
+Info: Saved "Band Skullcrusher.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Chin Ups.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Info: Total files 28 | Changed 1 | Failed 0
+Info: Saved "Chin Ups.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Chin Ups.blend"
+
+Blender quit
+WARN (bke.customdata): ./source/blender/blenkernel/intern/customdata.c:4491 CustomData_verify_versions: .blend file read: removing a data layer that should not have been written
+WARN (bke.customdata): ./source/blender/blenkernel/intern/customdata.c:4491 CustomData_verify_versions: .blend file read: removing a data layer that should not have been written
+WARN (bke.customdata): ./source/blender/blenkernel/intern/customdata.c:4491 CustomData_verify_versions: .blend file read: removing a data layer that should not have been written
+WARN (bke.customdata): ./source/blender/blenkernel/intern/customdata.c:4491 CustomData_verify_versions: .blend file read: removing a data layer that should not have been written
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Laying Triceps Extensions.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Info: Total files 75 | Changed 12 | Failed 0
+Info: Saved "Laying Triceps Extensions.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Laying Triceps Extensions.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Kettlebell - Hip Thrust.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Info: Total files 32 | Changed 1 | Failed 0
+Info: Saved "Kettlebell - Hip Thrust.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Kettlebell - Hip Thrust.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Kettlebell Wrist Curl.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Info: Total files 2 | Changed 1 | Failed 0
+Info: Saved "Kettlebell Wrist Curl.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Kettlebell Wrist Curl.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Dumbbell Bench Press 2.blend
+Error: File written by newer Blender binary (300.43), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Info: Total files 54 | Changed 1 | Failed 0
+Info: Saved "Dumbbell Bench Press 2.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Dumbbell Bench Press 2.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Seated Rear Delt Fly.blend
+Info: Total files 31 | Changed 13 | Failed 0
+Info: Saved "Seated Rear Delt Fly.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Seated Rear Delt Fly.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Kettlebell Single Arm Lateral Raise.blend
+Error: File written by newer Blender binary (300.43), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Info: Total files 29 | Changed 1 | Failed 0
+Info: Saved "Kettlebell Single Arm Lateral Raise.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Kettlebell Single Arm Lateral Raise.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Machine Seated Calf Raises(1).blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Info: Total files 28 | Changed 1 | Failed 0
+Info: Saved "Machine Seated Calf Raises(1).blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Machine Seated Calf Raises(1).blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Kettlebell Single Leg Glute Bridge.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Info: Total files 28 | Changed 1 | Failed 0
+Info: Saved "Kettlebell Single Leg Glute Bridge.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Kettlebell Single Leg Glute Bridge.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Dumbbell Hammer Curl.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Info: Total files 37 | Changed 16 | Failed 0
+Info: Saved "Dumbbell Hammer Curl.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Dumbbell Hammer Curl.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Barbell Forward Lunge.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Info: Total files 34 | Changed 1 | Failed 0
+Info: Saved "Barbell Forward Lunge.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Barbell Forward Lunge.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Dumbbell Forward Lunge.blend
+Info: Total files 31 | Changed 13 | Failed 0
+Info: Saved "Dumbbell Forward Lunge.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Dumbbell Forward Lunge.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Cable Chest Press.blend
+Error: File written by newer Blender binary (300.43), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Info: Total files 33 | Changed 26 | Failed 0
+Info: Saved "Cable Chest Press.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Cable Chest Press.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Alternating overhead press.blend
+Info: Total files 34 | Changed 1 | Failed 0
+Info: Saved "Alternating overhead press.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Alternating overhead press.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Heels Up Back Squat.blend
+Error: File written by newer Blender binary (300.43), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Info: Total files 34 | Changed 1 | Failed 0
+Info: Saved "Heels Up Back Squat.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Heels Up Back Squat.blend"
+
+Blender quit
+WARN (bke.customdata): ./source/blender/blenkernel/intern/customdata.c:4491 CustomData_verify_versions: .blend file read: removing a data layer that should not have been written
+WARN (bke.customdata): ./source/blender/blenkernel/intern/customdata.c:4491 CustomData_verify_versions: .blend file read: removing a data layer that should not have been written
+WARN (bke.customdata): ./source/blender/blenkernel/intern/customdata.c:4491 CustomData_verify_versions: .blend file read: removing a data layer that should not have been written
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Assisted Bulgarian Split Squat.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Dependency cycle detected:
+  OBArmature/Ctrl_ForeArm_FK_Right/BONE_CONSTRAINTS() depends on
+  OBArmature/Ctrl_Hand_FK_Right/BONE_DONE() via 'Stretch To'
+  OBArmature/Ctrl_Hand_FK_Right/BONE_READY() via 'Ready -> Done'
+  OBArmature/Ctrl_Hand_FK_Right/BONE_POSE_PARENT() via 'Pose -> Ready'
+  OBArmature/Ctrl_ForeArm_FK_Right/BONE_DONE() via 'Parent Bone -> Child Bone'
+  OBArmature/Ctrl_ForeArm_FK_Right/BONE_READY() via 'Ready -> Done'
+  OBArmature/Ctrl_ForeArm_FK_Right/BONE_CONSTRAINTS() via 'Constraints -> Ready'
+Detected 1 dependency cycles
+Dependency cycle detected:
+  OBArmature/Ctrl_ForeArm_FK_Right/BONE_CONSTRAINTS() depends on
+  OBArmature/Ctrl_Hand_FK_Right/BONE_DONE() via 'Stretch To'
+  OBArmature/Ctrl_Hand_FK_Right/BONE_READY() via 'Ready -> Done'
+  OBArmature/Ctrl_Hand_FK_Right/BONE_POSE_PARENT() via 'Pose -> Ready'
+  OBArmature/Ctrl_ForeArm_FK_Right/BONE_DONE() via 'Parent Bone -> Child Bone'
+  OBArmature/Ctrl_ForeArm_FK_Right/BONE_READY() via 'Ready -> Done'
+  OBArmature/Ctrl_ForeArm_FK_Right/BONE_CONSTRAINTS() via 'Constraints -> Ready'
+Detected 1 dependency cycles
+Info: Total files 12 | Changed 1 | Failed 0
+Info: Saved "Assisted Bulgarian Split Squat.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Assisted Bulgarian Split Squat.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Dumbbell Rear Delt Fly.blend
+Info: Total files 31 | Changed 13 | Failed 0
+Info: Saved "Dumbbell Rear Delt Fly.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Dumbbell Rear Delt Fly.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Barbell Supinated Pendlay Row.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Error: Unable to pack file, source path '/s/Documents/Talisman Skulls_1/Textures/TS_Tongue.png' not found
+Info: Packed 1 file(s)
+Info: Total files 39 | Changed 2 | Failed 0
+Info: Saved "Barbell Supinated Pendlay Row.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Error: Unable to pack file, source path '/s/Documents/Talisman Skulls_1/Textures/TS_Tongue.png' not found
+Info: Packed 1 file(s)
+Info: Saved "Barbell Supinated Pendlay Row.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Band squat.blend
+Error: File written by newer Blender binary (300.43), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Info: Total files 4 | Changed 1 | Failed 0
+Info: Saved "Band squat.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Info: Saved "Band squat.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+Read blend: /home/bizon/dong/3D Models/Blenders/Barbell Reverse Curl.blend
+Error: File written by newer Blender binary (300.43), expect loss of data!
+Color management: scene view "Filmic" not found, setting default "Standard".
+Color management: scene look "High Contrast" not found, setting default "None".
+Color management: image colorspace "Non-Color" not found, will use default instead.
+Error: Unable to pack file, source path '/home/s/Documents/Talisman Skulls_1/Textures/TS_Tongue.png' not found
+Error: Unable to pack file, source path '/home/s/Documents/Talisman Skulls_1/Textures/TS_Tongue.png' not found
+Info: Packed 2 file(s)
+Info: Total files 35 | Changed 4 | Failed 0
+Info: Saved "Barbell Reverse Curl.blend"
+Assigned material to ['Head', 'Neck', 'LeftHand', 'LeftHandThumb1', 'LeftHandThumb2', 'LeftHandThumb3', 'LeftHandIndex1', 'LeftHandIndex2', 'LeftHandIndex3', 'LeftHandMiddle1', 'LeftHandMiddle2', 'LeftHandMiddle3', 'LeftHandRing1', 'LeftHandRing2', 'LeftHandRing3', 'LeftHandPinky1', 'LeftHandPinky2', 'LeftHandPinky3', 'RightHand', 'RightHandThumb1', 'RightHandThumb2', 'RightHandThumb3', 'RightHandIndex1', 'RightHandIndex2', 'RightHandIndex3', 'RightHandMiddle1', 'RightHandMiddle2', 'RightHandMiddle3', 'RightHandRing1', 'RightHandRing2', 'RightHandRing3', 'RightHandPinky1', 'RightHandPinky2', 'RightHandPinky3']
+Assigned material to ['Spine', 'Spine1', 'Spine2', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'RightShoulder', 'RightArm', 'RightForeArm']
+Assigned material to ['LeftUpLeg', 'LeftLeg', 'RightUpLeg', 'RightLeg']
+Assigned material to ['LeftFoot', 'LeftToeBase', 'RightFoot', 'RightToeBase']
+Material assignment completed!
+
+Current materials:
+[0] Skin: RGB = [0.8, 0.6, 0.5]
+[1] Shirt: RGB = [0.2, 0.3, 0.8]
+[2] Pants: RGB = [0.2, 0.2, 0.2]
+[3] Shoes: RGB = [0.1, 0.1, 0.1]
+Error: Unable to pack file, source path '/home/s/Documents/Talisman Skulls_1/Textures/TS_Tongue.png' not found
+Error: Unable to pack file, source path '/home/s/Documents/Talisman Skulls_1/Textures/TS_Tongue.png' not found
+Info: Packed 2 file(s)
+Info: Saved "Barbell Reverse Curl.blend"
+
+Blender quit
+Color management: using fallback mode for management
+Color management: Error could not find role data role.
+Blender 3.0.1
+Read prefs: /home/bizon/.config/blender/3.0/config/userpref.blend
+Color management: scene view "Filmic" not found, setting default "Standard".
+
+Sent an internal break event. Press ^C again to kill Blender
+Read blend: /home/bizon/dong/3D Models/Blenders/Band High Hammer Curl.blend
+Error: File written by newer Blender binary (305.8), expect loss of data!
+Processing Front Rack Squat.blend...
+Successfully added material Front Rack Squat.blend
+Processing Neutral Overhead Press.blend...
+Successfully added material Neutral Overhead Press.blend
+Processing Kettlebell Decline Skull Crusher .blend...
+Successfully added material Kettlebell Decline Skull Crusher .blend
+Processing Cable Cross Pushdown.blend...
+Successfully added material Cable Cross Pushdown.blend
+Processing Bulgarian Split Squat.blend...
+Successfully added material Bulgarian Split Squat.blend
+Processing Cable Wrist Curl.blend...
+Successfully added material Cable Wrist Curl.blend
+Processing Dumbell Goblet Squat.blend...
+Successfully added material Dumbell Goblet Squat.blend
+Processing Barbell Lateral Lunge.blend...
+Successfully added material Barbell Lateral Lunge.blend
+Processing Dumbbell Reverse Lunge.blend...
+Successfully added material Dumbbell Reverse Lunge.blend
+Processing Goblet Pulse Squat.blend...
+Successfully added material Goblet Pulse Squat.blend
+Processing Single Arm Chest Press.blend...
+Successfully added material Single Arm Chest Press.blend
+Processing Barbell Toes Up Calf Raise.blend...
+Successfully added material Barbell Toes Up Calf Raise.blend
+Processing Chest Stretch -1.blend...
+Successfully added material Chest Stretch -1.blend
+Processing Diamond Push Ups.blend...
+Successfully added material Diamond Push Ups.blend
+Processing Dumbbell incline hammer curl.blend...
+Successfully added material Dumbbell incline hammer curl.blend
+Processing Kettlebell Glute Bridge.blend...
+Successfully added material Kettlebell Glute Bridge.blend
+Processing Ball Hamstring Curl.blend...
+Successfully added material Ball Hamstring Curl.blend
+Processing Seating Overhead Tricep Extension.blend...
+Successfully added material Seating Overhead Tricep Extension.blend
+Processing Forward Lunge.blend...
+Successfully added material Forward Lunge.blend
+Processing Cable Rear Delt Fly.blend...
+Successfully added material Cable Rear Delt Fly.blend
+Processing Single Army Chest Press.blend...
+Successfully added material Single Army Chest Press.blend
+Processing Barbell Curtsy Lunge.blend...
+Successfully added material Barbell Curtsy Lunge.blend
+Processing Dumbbell Wrist Extension.blend...
+Successfully added material Dumbbell Wrist Extension.blend
+Processing Band Skullcrusher.blend...
+Successfully added material Band Skullcrusher.blend
+Processing Chin Ups.blend...
+Successfully added material Chin Ups.blend
+Processing Laying Triceps Extensions.blend...
+Successfully added material Laying Triceps Extensions.blend
+Processing Kettlebell - Hip Thrust.blend...
+Successfully added material Kettlebell - Hip Thrust.blend
+Processing Kettlebell Wrist Curl.blend...
+Successfully added material Kettlebell Wrist Curl.blend
+Processing Dumbbell Bench Press 2.blend...
+Successfully added material Dumbbell Bench Press 2.blend
+Processing Seated Rear Delt Fly.blend...
+Successfully added material Seated Rear Delt Fly.blend
+Processing Kettlebell Single Arm Lateral Raise.blend...
+Successfully added material Kettlebell Single Arm Lateral Raise.blend
+Processing Machine Seated Calf Raises(1).blend...
+Successfully added material Machine Seated Calf Raises(1).blend
+Processing Kettlebell Single Leg Glute Bridge.blend...
+Successfully added material Kettlebell Single Leg Glute Bridge.blend
+Processing Dumbbell Hammer Curl.blend...
+Successfully added material Dumbbell Hammer Curl.blend
+Processing Barbell Forward Lunge.blend...
+Successfully added material Barbell Forward Lunge.blend
+Processing Dumbbell Forward Lunge.blend...
+Successfully added material Dumbbell Forward Lunge.blend
+Processing Cable Chest Press.blend...
+Successfully added material Cable Chest Press.blend
+Processing Alternating overhead press.blend...
+Successfully added material Alternating overhead press.blend
+Processing Heels Up Back Squat.blend...
+Successfully added material Heels Up Back Squat.blend
+Processing Assisted Bulgarian Split Squat.blend...
+Successfully added material Assisted Bulgarian Split Squat.blend
+Processing Dumbbell Rear Delt Fly.blend...
+Successfully added material Dumbbell Rear Delt Fly.blend
+Processing Barbell Supinated Pendlay Row.blend...
+Successfully added material Barbell Supinated Pendlay Row.blend
+Processing Band squat.blend...
+Successfully added material Band squat.blend
+Processing Barbell Reverse Curl.blend...
+Successfully added material Barbell Reverse Curl.blend
+Processing Band High Hammer Curl.blend...

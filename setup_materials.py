@@ -54,6 +54,9 @@ def assign_material_to_parts(obj, part_names, material, material_index):
     
     # Assign material
     bpy.ops.object.mode_set(mode='EDIT')
+    #experiement
+    bpy.ops.mesh.select_more()
+
     obj.active_material_index = material_index
     try:
         bpy.ops.object.material_slot_assign()

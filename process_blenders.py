@@ -75,12 +75,12 @@ def run_blender_to_mp4(input_folder, output_folder):
 
 # Input and Output Folder Paths
 input_folder = "../Blenders"  # Replace with your input folder path
-blender_with_material = "../Blender_With_Material/Jan13"
-multiple_camera_blender_folder = "../Blenders_Different_Angles/Jan13"
-multicamera_and_color_folder = "../Blenders_Different_Angles_w_Material/Jan13"
+blender_with_material = "../Blender_With_Material/Feb1"
+multiple_camera_blender_folder = "../Blenders_Different_Angles/Feb1_colored"
+multicamera_and_color_folder = "../Blenders_Different_Angles_w_Material/Feb1_colored"
 
-video_output_folder = "../MP4s/MultiCameras/Jan13"  # Replace with your output folder path
+video_output_folder = "../MP4s/MultiCameras/Feb1_colored"  # Replace with your output folder path
 
-# run_setup_materials(input_folder, blender_with_material)
-run_add_cameras(input_folder,multiple_camera_blender_folder)
-run_blender_to_mp4(multiple_camera_blender_folder, video_output_folder)
+run_setup_materials(input_folder, blender_with_material)
+# run_add_cameras(blender_with_material,multiple_camera_blender_folder)
+# run_blender_to_mp4(multiple_camera_blender_folder, video_output_folder)
